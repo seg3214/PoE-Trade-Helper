@@ -2,9 +2,11 @@
 
 
 A C\# WinForms utility for **Path of Exile** designed to simplify high-volume currency trading. This tool provides real-time ratio calculations and visual inventory previews to ensure players never overpay during complex trades.  
+
 <p align="center">
   <img src="./assets/img3.gif" alt="App Demo">
 </p>
+
 ## 🚀 Key Features
 * **Dynamic Trade Visualization**: Generates a 2D visual representation of your trade window. It automatically calculates and displays full stacks versus remainders, helping users quickly verify the physical count of orbs.  
 * **Real-Time Profit/Loss Analysis**: Compares current trade ratios against user-defined "Standard Rates." The app alerts you if you are overpaying, gaining a margin, or hitting a fair market trade.  
